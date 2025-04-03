@@ -1,0 +1,25 @@
+{
+  "name": "tx-encrypted-cyper",
+  "version": "1.0.0",
+  "description": "Encrypted token transfer protocol",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "ethers",
+    "cypher",
+    "web3"
+  ],
+  "author": "anambactiar",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
