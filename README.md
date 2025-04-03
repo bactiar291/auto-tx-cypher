@@ -27,11 +27,10 @@ Clone Repository:
 ```bash
 git clone https://github.com/bactiar291/tx-encryp-cyper.git
 cd tx-encryp-cyper
-Install Dependencies:
 ```
+Install Dependencies :
 ```bash
 npm install
-Setup Wallet:
 ```
 "YOUR_PRIVATE_KEY" in wallet.txt
 Usage 🖥️
