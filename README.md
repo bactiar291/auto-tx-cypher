@@ -35,7 +35,7 @@ npm install
 "YOUR_PRIVATE_KEY" in wallet.txt
 Usage 🖥️
 ```bash
-npm start
+node run.js
 ```
 Example Output:
 
