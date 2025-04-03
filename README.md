@@ -1,7 +1,7 @@
 # auto-tx-cypher
 mengirim transaksi kali ini beda dari umumnya  ,karene dicyper testnet menggunakan keamanan encrypted dalam mengirim
 
-Features ✨
+**Features ✨
 🔒 Encrypted ERC-20 Token Transfers
 
 ⛽ Dynamic Gas Fee Calculation with 30% Buffer
@@ -16,7 +16,7 @@ Features ✨
 
 ⚡ Ethers.js v6 Implementation
 
- Installation  🛠️
+***Installation  🛠️
 Prerequisites:
 
 Node.js ≥ 18.x
@@ -24,26 +24,23 @@ Node.js ≥ 18.x
 npm ≥ 9.x
 Clone Repository:
 
-'''bash
+```bash
 git clone https://github.com/bactiar291/tx-encryp-cyper.git
 cd tx-encryp-cyper
 Install Dependencies:
-'''
-bash
-Copy
+```
+```bash
 npm install
 Setup Wallet:
-
-bash
-Copy
-echo "YOUR_PRIVATE_KEY" > wallet.txt
+```
+"YOUR_PRIVATE_KEY" in wallet.txt
 Usage 🖥️
-bash
-Copy
+```bash
 npm start
+```
 Example Output:
 
-Copy
+```bash
 ▓▓▓ anambactiar glitch engine initialized ▓▓▓
 ▓▒░ Wallet Balance: 0.3245 CYPHER
 ▓▒░ Token Balance: 1000 eDEAI
@@ -54,3 +51,4 @@ Copy
 ▓▒░ Amount: 1 eDEAI
 ▓▒░ Gas Used: 80000 (0.015 Gwei)
 ▓▒░ Explorer: https://testnet3.cypherscan.ai/tx/0x8a1dcd...f3a1
+```
